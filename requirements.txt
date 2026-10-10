@@ -1,0 +1,7 @@
+# 小学数学工具 的 Python 依赖
+#
+# Deepin / UOS / Debian 上更推荐用系统包（PyQt5 是编译好的，装起来更快）：
+#     sudo apt install python3-pyqt5 python3-sympy
+# 想用虚拟环境就装下面这两个：
+PyQt5>=5.15
+sympy>=1.9

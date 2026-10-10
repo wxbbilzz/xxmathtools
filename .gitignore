@@ -10,3 +10,9 @@ dist/
 # Qt Creator / qmake 本地配置
 *.pro.user
 *.pro.user.*
+
+# Python 虚拟环境
+venv/
+
+# get-pip 引导脚本
+get-pip.py
